@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 猫耳 -->
+
+  <Eccentric_Hediff_Ears_CatLeft.label>左猫耳</Eccentric_Hediff_Ears_CatLeft.label>
+  <Eccentric_Hediff_Ears_CatLeft.description>一只植入人体的美容用猫耳。</Eccentric_Hediff_Ears_CatLeft.description>
+  <Eccentric_Hediff_Ears_CatLeft.labelNoun>一只猫耳</Eccentric_Hediff_Ears_CatLeft.labelNoun>
+
+  <Eccentric_Hediff_Ears_CatRight.label>右猫耳</Eccentric_Hediff_Ears_CatRight.label>
+  <Eccentric_Hediff_Ears_CatRight.description>一只植入人体的美容用猫耳。</Eccentric_Hediff_Ears_CatRight.description>
+  <Eccentric_Hediff_Ears_CatRight.labelNoun>一只猫耳</Eccentric_Hediff_Ears_CatRight.labelNoun>
+
+
+  <!-- 缅因猫耳 -->
+
+  <Eccentric_Hediff_Ears_MaineCoonLeft.label>左缅因猫耳</Eccentric_Hediff_Ears_MaineCoonLeft.label>
+  <Eccentric_Hediff_Ears_MaineCoonLeft.description>一只植入人体的美容用猫耳。</Eccentric_Hediff_Ears_MaineCoonLeft.description>
+  <Eccentric_Hediff_Ears_MaineCoonLeft.labelNoun>一只缅因猫耳</Eccentric_Hediff_Ears_MaineCoonLeft.labelNoun>
+
+  <Eccentric_Hediff_Ears_MaineCoonRight.label>右缅因猫耳</Eccentric_Hediff_Ears_MaineCoonRight.label>
+  <Eccentric_Hediff_Ears_MaineCoonRight.description>一只植入人体的美容用猫耳。</Eccentric_Hediff_Ears_MaineCoonRight.description>
+  <Eccentric_Hediff_Ears_MaineCoonRight.labelNoun>一只缅因猫耳</Eccentric_Hediff_Ears_MaineCoonRight.labelNoun>
+
+
+  <!-- siamese ear -->
+
+  <Eccentric_Hediff_Ears_SiameseLeft.label>左暹罗猫耳</Eccentric_Hediff_Ears_SiameseLeft.label>
+  <Eccentric_Hediff_Ears_SiameseLeft.description>一只植入人体的美容用猫耳。</Eccentric_Hediff_Ears_SiameseLeft.description>
+  <Eccentric_Hediff_Ears_SiameseLeft.labelNoun>一只暹罗猫耳</Eccentric_Hediff_Ears_SiameseLeft.labelNoun>
+
+  <Eccentric_Hediff_Ears_SiameseRight.label>右暹罗猫耳</Eccentric_Hediff_Ears_SiameseRight.label>
+  <Eccentric_Hediff_Ears_SiameseRight.description>一只植入人体的美容用猫耳。</Eccentric_Hediff_Ears_SiameseRight.description>
+  <Eccentric_Hediff_Ears_SiameseRight.labelNoun>一只暹罗猫耳</Eccentric_Hediff_Ears_SiameseRight.labelNoun>
+
+
+  <!-- 狐耳 -->
+
+  <Eccentric_Hediff_Ears_FoxLeft.label>左狐耳</Eccentric_Hediff_Ears_FoxLeft.label>
+  <Eccentric_Hediff_Ears_FoxLeft.description>一只植入人体的美容用狐耳。</Eccentric_Hediff_Ears_FoxLeft.description>
+  <Eccentric_Hediff_Ears_FoxLeft.labelNoun>一只狐耳</Eccentric_Hediff_Ears_FoxLeft.labelNoun>
+
+  <Eccentric_Hediff_Ears_FoxRight.label>右狐耳</Eccentric_Hediff_Ears_FoxRight.label>
+  <Eccentric_Hediff_Ears_FoxRight.description>一只植入人体的美容用狐耳。</Eccentric_Hediff_Ears_FoxRight.description>
+  <Eccentric_Hediff_Ears_FoxRight.labelNoun>一只狐耳</Eccentric_Hediff_Ears_FoxRight.labelNoun>
+
+
+  <!-- labrador ear -->
+
+  <Eccentric_Hediff_Ears_LabradorLeft.label>左拉布拉多耳</Eccentric_Hediff_Ears_LabradorLeft.label>
+  <Eccentric_Hediff_Ears_LabradorLeft.description>一只植入人体的美容用拉布拉多耳。</Eccentric_Hediff_Ears_LabradorLeft.description>
+  <Eccentric_Hediff_Ears_LabradorLeft.labelNoun>一只拉布拉多耳</Eccentric_Hediff_Ears_LabradorLeft.labelNoun>
+
+  <Eccentric_Hediff_Ears_LabradorRight.label>右拉布拉多耳</Eccentric_Hediff_Ears_LabradorRight.label>
+  <Eccentric_Hediff_Ears_LabradorRight.description>一只植入人体的美容用拉布拉多耳。</Eccentric_Hediff_Ears_LabradorRight.description>
+  <Eccentric_Hediff_Ears_LabradorRight.labelNoun>一只拉布拉多耳</Eccentric_Hediff_Ears_LabradorRight.labelNoun>
+
+
+  <!-- shepherd ear -->
+
+  <Eccentric_Hediff_Ears_ShepherdLeft.label>左牧羊犬耳</Eccentric_Hediff_Ears_ShepherdLeft.label>
+  <Eccentric_Hediff_Ears_ShepherdLeft.description>一只植入人体的美容用牧羊犬耳。</Eccentric_Hediff_Ears_ShepherdLeft.description>
+  <Eccentric_Hediff_Ears_ShepherdLeft.labelNoun>一只牧羊犬耳</Eccentric_Hediff_Ears_ShepherdLeft.labelNoun>
+
+  <Eccentric_Hediff_Ears_ShepherdRight.label>右牧羊犬耳</Eccentric_Hediff_Ears_ShepherdRight.label>
+  <Eccentric_Hediff_Ears_ShepherdRight.description>一只植入人体的美容用牧羊犬耳。</Eccentric_Hediff_Ears_ShepherdRight.description>
+  <Eccentric_Hediff_Ears_ShepherdRight.labelNoun>一只牧羊犬耳</Eccentric_Hediff_Ears_ShepherdRight.labelNoun>
+
+
+  <!-- terrier ear -->
+
+  <Eccentric_Hediff_Ears_TerrierLeft.label>左更犬耳</Eccentric_Hediff_Ears_TerrierLeft.label>
+  <Eccentric_Hediff_Ears_TerrierLeft.description>一只植入人体的美容用更犬耳。</Eccentric_Hediff_Ears_TerrierLeft.description>
+  <Eccentric_Hediff_Ears_TerrierLeft.labelNoun>一只更犬耳</Eccentric_Hediff_Ears_TerrierLeft.labelNoun>
+
+  <Eccentric_Hediff_Ears_TerrierRight.label>右更犬耳</Eccentric_Hediff_Ears_TerrierRight.label>
+  <Eccentric_Hediff_Ears_TerrierRight.description>一只植入人体的美容用更犬耳。</Eccentric_Hediff_Ears_TerrierRight.description>
+  <Eccentric_Hediff_Ears_TerrierRight.labelNoun>一只更犬耳</Eccentric_Hediff_Ears_TerrierRight.labelNoun>
+
+
+  <!-- 鼠耳 -->
+
+  <Eccentric_Hediff_Ears_MouseLeft.label>左鼠耳</Eccentric_Hediff_Ears_MouseLeft.label>
+  <Eccentric_Hediff_Ears_MouseLeft.description>一只植入人体的美容用鼠耳。</Eccentric_Hediff_Ears_MouseLeft.description>
+  <Eccentric_Hediff_Ears_MouseLeft.labelNoun>一只鼠耳</Eccentric_Hediff_Ears_MouseLeft.labelNoun>
+
+  <Eccentric_Hediff_Ears_MouseRight.label>右鼠耳</Eccentric_Hediff_Ears_MouseRight.label>
+  <Eccentric_Hediff_Ears_MouseRight.description>一只植入人体的美容用鼠耳。</Eccentric_Hediff_Ears_MouseRight.description>
+  <Eccentric_Hediff_Ears_MouseRight.labelNoun>一只鼠耳</Eccentric_Hediff_Ears_MouseRight.labelNoun>
+
+
+  <!-- 兔耳 -->
+
+  <Eccentric_Hediff_Ears_RabbitLeft.label>左兔耳</Eccentric_Hediff_Ears_RabbitLeft.label>
+  <Eccentric_Hediff_Ears_RabbitLeft.description>一只植入人体的美容用兔耳。</Eccentric_Hediff_Ears_RabbitLeft.description>
+  <Eccentric_Hediff_Ears_RabbitLeft.labelNoun>一只兔耳</Eccentric_Hediff_Ears_RabbitLeft.labelNoun>
+
+  <Eccentric_Hediff_Ears_RabbitRight.label>右兔耳</Eccentric_Hediff_Ears_RabbitRight.label>
+  <Eccentric_Hediff_Ears_RabbitRight.description>一只植入人体的美容用兔耳。</Eccentric_Hediff_Ears_RabbitRight.description>
+  <Eccentric_Hediff_Ears_RabbitRight.labelNoun>一只兔耳</Eccentric_Hediff_Ears_RabbitRight.labelNoun>
+
+
+  <!-- 马耳 -->
+
+  <Eccentric_Hediff_Ears_HorseLeft.label>左马耳</Eccentric_Hediff_Ears_HorseLeft.label>
+  <Eccentric_Hediff_Ears_HorseLeft.description>一只植入人体的美容用马耳。</Eccentric_Hediff_Ears_HorseLeft.description>
+  <Eccentric_Hediff_Ears_HorseLeft.labelNoun>一只马耳</Eccentric_Hediff_Ears_HorseLeft.labelNoun>
+
+  <Eccentric_Hediff_Ears_HorseRight.label>右马耳</Eccentric_Hediff_Ears_HorseRight.label>
+  <Eccentric_Hediff_Ears_HorseRight.description>一只植入人体的美容用马耳。</Eccentric_Hediff_Ears_HorseRight.description>
+  <Eccentric_Hediff_Ears_HorseRight.labelNoun>一只马耳</Eccentric_Hediff_Ears_HorseRight.labelNoun>
+
+
+</LanguageData>

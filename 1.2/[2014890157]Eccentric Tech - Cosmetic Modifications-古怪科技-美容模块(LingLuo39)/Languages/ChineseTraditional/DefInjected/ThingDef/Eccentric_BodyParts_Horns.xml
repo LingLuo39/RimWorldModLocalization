@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 敲擊獸角 -->
+
+  <EccentricHornThrumbo.label>敲擊獸角</EccentricHornThrumbo.label>
+  <EccentricHornThrumbo.description>一個高度先進的美容用敲擊獸角。儘管看起來尺寸不小，但這種植入物實際上非常輕便，不會給安裝者帶來麻煩。</EccentricHornThrumbo.description>
+
+
+  <!-- 獨角獸角 -->
+
+  <EccentricHornUnicorn.label>獨角獸角</EccentricHornUnicorn.label>
+  <EccentricHornUnicorn.description>一個高度先進的美容用獨角獸角。儘管看起來尺寸不小，但這種植入物實際上非常輕便，不會給安裝者帶來麻煩。</EccentricHornUnicorn.description>
+
+
+  <!-- 公牛角 -->
+
+  <EccentricHornBull.label>公牛角</EccentricHornBull.label>
+  <EccentricHornBull.description>一個高度先進的美容用公牛角。儘管看起來尺寸不小，但這種植入物實際上非常輕便，不會給安裝者帶來麻煩。</EccentricHornBull.description>
+
+
+  <!-- 公羊角 -->
+
+  <EccentricHornRam.label>公羊角</EccentricHornRam.label>
+  <EccentricHornRam.description>一個高度先進的美容用公羊角。儘管看起來尺寸不小，但這種植入物實際上非常輕便，不會給安裝者帶來麻煩。</EccentricHornRam.description>
+
+
+  <!-- 鬼角 -->
+
+  <EccentricHornOni.label>鬼角</EccentricHornOni.label>
+  <EccentricHornOni.description>一個高度先進的美容用鬼角。儘管看起來尺寸不小，但這種植入物實際上非常輕便，不會給安裝者帶來麻煩。</EccentricHornOni.description>
+
+
+</LanguageData>

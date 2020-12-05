@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 貓耳 -->
+
+  <EccentricInstallEarCatLeft.label>植入貓耳</EccentricInstallEarCatLeft.label>
+  <EccentricInstallEarCatLeft.description>植入一隻美容用的貓耳。</EccentricInstallEarCatLeft.description>
+  <EccentricInstallEarCatLeft.jobString>植入貓耳中。</EccentricInstallEarCatLeft.jobString>
+
+  <EccentricInstallEarCatRight.label>植入貓耳</EccentricInstallEarCatRight.label>
+  <EccentricInstallEarCatRight.description>植入一隻美容用的貓耳。</EccentricInstallEarCatRight.description>
+  <EccentricInstallEarCatRight.jobString>植入貓耳中。</EccentricInstallEarCatRight.jobString>
+
+
+  <!-- 緬因貓耳 -->
+
+  <EccentricInstallEarMaineCoonLeft.label>植入緬因貓耳</EccentricInstallEarMaineCoonLeft.label>
+  <EccentricInstallEarMaineCoonLeft.description>植入一隻美容用的緬因貓耳。</EccentricInstallEarMaineCoonLeft.description>
+  <EccentricInstallEarMaineCoonLeft.jobString>植入緬因貓耳中。</EccentricInstallEarMaineCoonLeft.jobString>
+
+  <EccentricInstallEarMaineCoonRight.label>植入緬因貓耳</EccentricInstallEarMaineCoonRight.label>
+  <EccentricInstallEarMaineCoonRight.description>植入一隻美容用的緬因貓耳。</EccentricInstallEarMaineCoonRight.description>
+  <EccentricInstallEarMaineCoonRight.jobString>植入緬因貓耳中。</EccentricInstallEarMaineCoonRight.jobString>
+
+
+  <!-- 暹羅貓耳 -->
+
+  <EccentricInstallEarSiameseLeft.label>植入暹羅貓耳</EccentricInstallEarSiameseLeft.label>
+  <EccentricInstallEarSiameseLeft.description>植入一隻美容用的暹羅貓耳。</EccentricInstallEarSiameseLeft.description>
+  <EccentricInstallEarSiameseLeft.jobString>植入暹羅貓耳中。</EccentricInstallEarSiameseLeft.jobString>
+
+  <EccentricInstallEarSiameseRight.label>植入暹羅貓耳</EccentricInstallEarSiameseRight.label>
+  <EccentricInstallEarSiameseRight.description>植入一隻美容用的暹羅貓耳。</EccentricInstallEarSiameseRight.description>
+  <EccentricInstallEarSiameseRight.jobString>植入暹羅貓耳中。</EccentricInstallEarSiameseRight.jobString>
+
+
+  <!-- 狐耳 -->
+
+  <EccentricInstallEarFoxLeft.label>植入狐耳</EccentricInstallEarFoxLeft.label>
+  <EccentricInstallEarFoxLeft.description>植入一隻美容用的狐耳。</EccentricInstallEarFoxLeft.description>
+  <EccentricInstallEarFoxLeft.jobString>植入狐耳中。</EccentricInstallEarFoxLeft.jobString>
+
+  <EccentricInstallEarFoxRight.label>植入狐耳</EccentricInstallEarFoxRight.label>
+  <EccentricInstallEarFoxRight.description>植入一隻美容用的狐耳。</EccentricInstallEarFoxRight.description>
+  <EccentricInstallEarFoxRight.jobString>植入狐耳中。</EccentricInstallEarFoxRight.jobString>
+
+
+  <!-- labrador ear -->
+
+  <EccentricInstallEarLabradorLeft.label>植入拉布拉多耳</EccentricInstallEarLabradorLeft.label>
+  <EccentricInstallEarLabradorLeft.description>植入一隻美容用的拉布拉多耳。</EccentricInstallEarLabradorLeft.description>
+  <EccentricInstallEarLabradorLeft.jobString>植入拉布拉多耳中。</EccentricInstallEarLabradorLeft.jobString>
+
+  <EccentricInstallEarLabradorRight.label>植入拉布拉多耳</EccentricInstallEarLabradorRight.label>
+  <EccentricInstallEarLabradorRight.description>植入一隻美容用的拉布拉多耳。</EccentricInstallEarLabradorRight.description>
+  <EccentricInstallEarLabradorRight.jobString>植入拉布拉多耳中。</EccentricInstallEarLabradorRight.jobString>
+
+
+  <!-- shepherd ear -->
+
+  <EccentricInstallEarShepherdLeft.label>植入牧羊犬耳</EccentricInstallEarShepherdLeft.label>
+  <EccentricInstallEarShepherdLeft.description>植入一隻美容用的牧羊犬耳。</EccentricInstallEarShepherdLeft.description>
+  <EccentricInstallEarShepherdLeft.jobString>植入牧羊犬耳中。</EccentricInstallEarShepherdLeft.jobString>
+
+  <EccentricInstallEarShepherdRight.label>植入牧羊犬耳</EccentricInstallEarShepherdRight.label>
+  <EccentricInstallEarShepherdRight.description>植入一隻美容用的牧羊犬耳。</EccentricInstallEarShepherdRight.description>
+  <EccentricInstallEarShepherdRight.jobString>植入牧羊犬耳中。</EccentricInstallEarShepherdRight.jobString>
+
+
+  <!-- terrier ear -->
+
+  <EccentricInstallEarTerrierLeft.label>植入更犬耳</EccentricInstallEarTerrierLeft.label>
+  <EccentricInstallEarTerrierLeft.description>植入一隻美容用的更犬耳。</EccentricInstallEarTerrierLeft.description>
+  <EccentricInstallEarTerrierLeft.jobString>植入更犬耳中。</EccentricInstallEarTerrierLeft.jobString>
+
+  <EccentricInstallEarTerrierRight.label>植入更犬耳</EccentricInstallEarTerrierRight.label>
+  <EccentricInstallEarTerrierRight.description>植入一隻美容用的更犬耳。</EccentricInstallEarTerrierRight.description>
+  <EccentricInstallEarTerrierRight.jobString>植入更犬耳中。</EccentricInstallEarTerrierRight.jobString>
+
+
+  <!-- 鼠耳 -->
+
+  <EccentricInstallEarMouseLeft.label>植入鼠耳</EccentricInstallEarMouseLeft.label>
+  <EccentricInstallEarMouseLeft.description>植入一隻美容用的鼠耳。</EccentricInstallEarMouseLeft.description>
+  <EccentricInstallEarMouseLeft.jobString>植入鼠耳中。</EccentricInstallEarMouseLeft.jobString>
+
+  <EccentricInstallEarMouseRight.label>植入鼠耳</EccentricInstallEarMouseRight.label>
+  <EccentricInstallEarMouseRight.description>植入一隻美容用的鼠耳。</EccentricInstallEarMouseRight.description>
+  <EccentricInstallEarMouseRight.jobString>植入鼠耳中。</EccentricInstallEarMouseRight.jobString>
+
+
+  <!-- 兔耳 -->
+
+  <EccentricInstallEarRabbitLeft.label>植入兔耳</EccentricInstallEarRabbitLeft.label>
+  <EccentricInstallEarRabbitLeft.description>植入一隻美容用的兔耳。</EccentricInstallEarRabbitLeft.description>
+  <EccentricInstallEarRabbitLeft.jobString>植入兔耳中。</EccentricInstallEarRabbitLeft.jobString>
+
+  <EccentricInstallEarRabbitRight.label>植入兔耳</EccentricInstallEarRabbitRight.label>
+  <EccentricInstallEarRabbitRight.description>植入一隻美容用的兔耳。</EccentricInstallEarRabbitRight.description>
+  <EccentricInstallEarRabbitRight.jobString>植入兔耳中。</EccentricInstallEarRabbitRight.jobString>
+
+
+  <!-- 馬耳 -->
+
+  <EccentricInstallEarHorseLeft.label>植入馬耳</EccentricInstallEarHorseLeft.label>
+  <EccentricInstallEarHorseLeft.description>植入一隻美容用的馬耳。</EccentricInstallEarHorseLeft.description>
+  <EccentricInstallEarHorseLeft.jobString>植入馬耳中。</EccentricInstallEarHorseLeft.jobString>
+
+  <EccentricInstallEarHorseRight.label>植入馬耳</EccentricInstallEarHorseRight.label>
+  <EccentricInstallEarHorseRight.description>植入一隻美容用的馬耳。</EccentricInstallEarHorseRight.description>
+  <EccentricInstallEarHorseRight.jobString>植入馬耳中。</EccentricInstallEarHorseRight.jobString>
+
+
+</LanguageData>

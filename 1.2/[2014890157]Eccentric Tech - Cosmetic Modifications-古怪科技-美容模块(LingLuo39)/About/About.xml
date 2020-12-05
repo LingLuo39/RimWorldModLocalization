@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Eccentric Tech - Cosmetic Modifications_zh</name>
+  <author>LingLuo</author>
+  <packageId>LingLuo.EccentricTech.Cosmetics.zh</packageId>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <description>	[h1][b]Eccentric Tech - Cosmetic Modifications（古怪科技-美容模块 另译：古怪科技-容貌调整）的简/繁中文汉化包，请在原mod之后加载。[/b][/h1]
+	-已完全汉化。
+
+	翻译：
+	-简中：LingLuo
+	-繁中：LingLuo
+	边缘汉化组出品，禁止转载。
+	
+	[h1]简介：[/h1]
+添加了动物耳朵，角，尾巴的美容植入物。
+
+	[b]更新日志：[/b]
+	2020.12.05 15:00 发布汉化
+
+——————————————————————————
+漏译反馈：因为边缘汉化组维护的汉化Mod数量很多，由于Mod更新新增词条和翻译疏漏遗留下来的汉化缺漏我们无力逐一核对跟踪，所有大家在游戏过程中如果遇到翻译缺漏，请一定要反馈给我们！
+反馈途径：①直接在该Mod汉化包的工坊发布界面留言：②加入任一汉化组官方群私聊管理员“Rimworld管理组”反馈
+反馈内容：反馈时请说明时哪个Mod翻译缺失、缺失条目的英文名
+一般收到反馈后我们都会及时更新漏译。
+——————————————————————————
+
+[h1]您的点赞和收藏是我们更新的动力！[/h1]
+
+[img]https://steamuserimages-a.akamaihd.net/ugc/773973636542880938/177552C120085204130566E3C02C4E749C53B49C/[/img]
+
+PS. This is just a language pack ,you can find main mod by right link.</description>
+  <modDependencies>
+    <li>
+      <packageId>Aelanna.EccentricTech.Cosmetics</packageId>
+      <displayName>Eccentric Tech - Cosmetic Modifications</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2014890157</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Aelanna.EccentricTech.Cosmetics</li>
+  </loadAfter>
+</ModMetaData>

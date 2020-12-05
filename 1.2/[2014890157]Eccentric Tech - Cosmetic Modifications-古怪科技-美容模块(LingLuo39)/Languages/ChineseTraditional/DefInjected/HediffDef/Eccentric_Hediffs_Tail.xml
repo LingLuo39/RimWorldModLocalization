@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 貓尾 -->
+
+  <Eccentric_Hediff_Tails_Cat.label>貓尾</Eccentric_Hediff_Tails_Cat.label>
+  <Eccentric_Hediff_Tails_Cat.description>一隻植入人體的美容用貓尾。</Eccentric_Hediff_Tails_Cat.description>
+  <Eccentric_Hediff_Tails_Cat.labelNoun>一隻貓尾</Eccentric_Hediff_Tails_Cat.labelNoun>
+
+
+  <!-- maine coon tail -->
+
+  <Eccentric_Hediff_Tails_MaineCoon.label>緬因貓尾</Eccentric_Hediff_Tails_MaineCoon.label>
+  <Eccentric_Hediff_Tails_MaineCoon.description>一隻植入人體的美容用緬因貓尾。</Eccentric_Hediff_Tails_MaineCoon.description>
+  <Eccentric_Hediff_Tails_MaineCoon.labelNoun>一隻緬因貓尾</Eccentric_Hediff_Tails_MaineCoon.labelNoun>
+
+
+  <!-- siamese tail -->
+
+  <Eccentric_Hediff_Tails_Siamese.label>暹羅貓尾</Eccentric_Hediff_Tails_Siamese.label>
+  <Eccentric_Hediff_Tails_Siamese.description>一隻植入人體的美容用暹羅貓尾。</Eccentric_Hediff_Tails_Siamese.description>
+  <Eccentric_Hediff_Tails_Siamese.labelNoun>一隻暹羅貓尾</Eccentric_Hediff_Tails_Siamese.labelNoun>
+
+
+  <!-- 狐尾 -->
+
+  <Eccentric_Hediff_Tails_Fox.label>狐尾</Eccentric_Hediff_Tails_Fox.label>
+  <Eccentric_Hediff_Tails_Fox.description>一隻植入人體的美容用狐尾。</Eccentric_Hediff_Tails_Fox.description>
+  <Eccentric_Hediff_Tails_Fox.labelNoun>一隻狐尾</Eccentric_Hediff_Tails_Fox.labelNoun>
+
+
+  <!-- labrador tail -->
+
+  <Eccentric_Hediff_Tails_Labrador.label>拉布拉多尾</Eccentric_Hediff_Tails_Labrador.label>
+  <Eccentric_Hediff_Tails_Labrador.description>一隻植入人體的美容用拉布拉多尾。</Eccentric_Hediff_Tails_Labrador.description>
+  <Eccentric_Hediff_Tails_Labrador.labelNoun>一隻拉布拉多尾</Eccentric_Hediff_Tails_Labrador.labelNoun>
+
+
+  <!-- shepherd tail -->
+
+  <Eccentric_Hediff_Tails_Shepherd.label>牧羊犬尾</Eccentric_Hediff_Tails_Shepherd.label>
+  <Eccentric_Hediff_Tails_Shepherd.description>一隻植入人體的美容用牧羊犬尾。</Eccentric_Hediff_Tails_Shepherd.description>
+  <Eccentric_Hediff_Tails_Shepherd.labelNoun>一隻牧羊犬尾</Eccentric_Hediff_Tails_Shepherd.labelNoun>
+
+
+  <!-- terrier tail -->
+
+  <Eccentric_Hediff_Tails_Terrier.label>更犬尾</Eccentric_Hediff_Tails_Terrier.label>
+  <Eccentric_Hediff_Tails_Terrier.description>一隻植入人體的美容用更犬尾。</Eccentric_Hediff_Tails_Terrier.description>
+  <Eccentric_Hediff_Tails_Terrier.labelNoun>一隻更犬尾</Eccentric_Hediff_Tails_Terrier.labelNoun>
+
+
+  <!-- 鼠尾 -->
+
+  <Eccentric_Hediff_Tails_Mouse.label>鼠尾</Eccentric_Hediff_Tails_Mouse.label>
+  <Eccentric_Hediff_Tails_Mouse.description>一隻植入人體的美容用鼠尾。</Eccentric_Hediff_Tails_Mouse.description>
+  <Eccentric_Hediff_Tails_Mouse.labelNoun>一隻鼠尾</Eccentric_Hediff_Tails_Mouse.labelNoun>
+
+
+  <!-- 兔尾 -->
+
+  <Eccentric_Hediff_Tails_Rabbit.label>兔尾</Eccentric_Hediff_Tails_Rabbit.label>
+  <Eccentric_Hediff_Tails_Rabbit.description>一隻植入人體的美容用兔尾。</Eccentric_Hediff_Tails_Rabbit.description>
+  <Eccentric_Hediff_Tails_Rabbit.labelNoun>一隻兔尾</Eccentric_Hediff_Tails_Rabbit.labelNoun>
+
+
+  <!-- 馬尾 -->
+
+  <Eccentric_Hediff_Tails_Horse.label>馬尾</Eccentric_Hediff_Tails_Horse.label>
+  <Eccentric_Hediff_Tails_Horse.description>一隻植入人體的美容用馬尾。</Eccentric_Hediff_Tails_Horse.description>
+  <Eccentric_Hediff_Tails_Horse.labelNoun>一隻馬尾</Eccentric_Hediff_Tails_Horse.labelNoun>
+
+
+  <!-- 牛尾 -->
+
+  <Eccentric_Hediff_Tails_Bull.label>牛尾</Eccentric_Hediff_Tails_Bull.label>
+  <Eccentric_Hediff_Tails_Bull.description>一隻植入人體的美容用牛尾。</Eccentric_Hediff_Tails_Bull.description>
+  <Eccentric_Hediff_Tails_Bull.labelNoun>一隻牛尾</Eccentric_Hediff_Tails_Bull.labelNoun>
+
+
+</LanguageData>

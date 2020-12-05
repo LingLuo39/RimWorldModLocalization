@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 敲擊獸角 -->
+
+  <Eccentric_Hediff_Horn_Thrumbo.label>敲擊獸角</Eccentric_Hediff_Horn_Thrumbo.label>
+  <Eccentric_Hediff_Horn_Thrumbo.description>一隻植入人體的美容用敲擊獸角。</Eccentric_Hediff_Horn_Thrumbo.description>
+  <Eccentric_Hediff_Horn_Thrumbo.labelNoun>一隻敲擊獸角</Eccentric_Hediff_Horn_Thrumbo.labelNoun>
+
+
+  <!-- 獨角獸角 -->
+
+  <Eccentric_Hediff_Horn_Unicorn.label>獨角獸角</Eccentric_Hediff_Horn_Unicorn.label>
+  <Eccentric_Hediff_Horn_Unicorn.description>一隻植入人體的美容用獨角獸角。</Eccentric_Hediff_Horn_Unicorn.description>
+  <Eccentric_Hediff_Horn_Unicorn.labelNoun>一隻獨角獸角</Eccentric_Hediff_Horn_Unicorn.labelNoun>
+
+
+  <!-- 公牛角 -->
+
+  <Eccentric_Hediff_Horn_BullLeft.label>左公牛角</Eccentric_Hediff_Horn_BullLeft.label>
+  <Eccentric_Hediff_Horn_BullLeft.description>一隻植入人體的美容用公牛角。</Eccentric_Hediff_Horn_BullLeft.description>
+  <Eccentric_Hediff_Horn_BullLeft.labelNoun>一隻公牛角</Eccentric_Hediff_Horn_BullLeft.labelNoun>
+
+  <Eccentric_Hediff_Horn_BullRight.label>右公牛角</Eccentric_Hediff_Horn_BullRight.label>
+  <Eccentric_Hediff_Horn_BullRight.description>一隻植入人體的美容用公牛角。</Eccentric_Hediff_Horn_BullRight.description>
+  <Eccentric_Hediff_Horn_BullRight.labelNoun>一隻公牛角</Eccentric_Hediff_Horn_BullRight.labelNoun>
+
+
+  <!-- 公羊角 -->
+
+  <Eccentric_Hediff_Horn_RamLeft.label>左公羊角</Eccentric_Hediff_Horn_RamLeft.label>
+  <Eccentric_Hediff_Horn_RamLeft.description>一隻植入人體的美容用公羊角。</Eccentric_Hediff_Horn_RamLeft.description>
+  <Eccentric_Hediff_Horn_RamLeft.labelNoun>一隻公羊角</Eccentric_Hediff_Horn_RamLeft.labelNoun>
+
+  <Eccentric_Hediff_Horn_RamRight.label>右公羊角</Eccentric_Hediff_Horn_RamRight.label>
+  <Eccentric_Hediff_Horn_RamRight.description>一隻植入人體的美容用公羊角。</Eccentric_Hediff_Horn_RamRight.description>
+  <Eccentric_Hediff_Horn_RamRight.labelNoun>一隻公羊角</Eccentric_Hediff_Horn_RamRight.labelNoun>
+
+
+  <!-- 鬼角 -->
+
+  <Eccentric_Hediff_Horn_OniLeft.label>左鬼角</Eccentric_Hediff_Horn_OniLeft.label>
+  <Eccentric_Hediff_Horn_OniLeft.description>一隻植入人體的美容用鬼角。</Eccentric_Hediff_Horn_OniLeft.description>
+  <Eccentric_Hediff_Horn_OniLeft.labelNoun>一隻鬼角</Eccentric_Hediff_Horn_OniLeft.labelNoun>
+
+  <Eccentric_Hediff_Horn_OniRight.label>右鬼角</Eccentric_Hediff_Horn_OniRight.label>
+  <Eccentric_Hediff_Horn_OniRight.description>一隻植入人體的美容用鬼角。</Eccentric_Hediff_Horn_OniRight.description>
+  <Eccentric_Hediff_Horn_OniRight.labelNoun>一隻鬼角</Eccentric_Hediff_Horn_OniRight.labelNoun>
+
+
+</LanguageData>

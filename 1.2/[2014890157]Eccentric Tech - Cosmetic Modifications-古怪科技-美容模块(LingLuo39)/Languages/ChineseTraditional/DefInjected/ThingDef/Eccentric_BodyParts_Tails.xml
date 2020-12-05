@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 貓尾 -->
+
+  <EccentricTailCat.label>貓尾</EccentricTailCat.label>
+  <EccentricTailCat.description>一個高度先進的美容用貓尾。這款植入物在安裝後會連接安裝者的基因以匹配其發色，而其中使用的神經整合技術則使該植入物可以像真正的尾巴那樣活動以回應安裝者的思想。</EccentricTailCat.description>
+
+
+  <!-- maine coon tail -->
+
+  <EccentricTailMaineCoon.label>緬因貓尾</EccentricTailMaineCoon.label>
+  <EccentricTailMaineCoon.description>一個高度先進的美容用貓尾。這款植入物在安裝後會連接安裝者的基因以匹配其發色，而其中使用的神經整合技術則使該植入物可以像真正的尾巴那樣活動以回應安裝者的思想。</EccentricTailMaineCoon.description>
+
+
+  <!-- siamese tail -->
+
+  <EccentricTailSiamese.label>暹羅貓尾</EccentricTailSiamese.label>
+  <EccentricTailSiamese.description>一個高度先進的美容用貓尾。這款植入物在安裝後會保留暹羅貓獨特的黑色，而其中使用的神經整合技術則使該植入物可以像真正的尾巴那樣活動以回應安裝者的思想。</EccentricTailSiamese.description>
+
+
+  <!-- 狐尾 -->
+
+  <EccentricTailFox.label>狐尾</EccentricTailFox.label>
+  <EccentricTailFox.description>一個高度先進的美容用狐尾。這款植入物在安裝後會連接安裝者的基因以匹配其發色，而其中使用的神經整合技術則使該植入物可以像真正的尾巴那樣活動以回應安裝者的思想。</EccentricTailFox.description>
+
+
+  <!-- labrador tail -->
+
+  <EccentricTailLabrador.label>拉布拉多尾</EccentricTailLabrador.label>
+  <EccentricTailLabrador.description>一個高度先進的美容用狗尾。這款植入物在安裝後會連接安裝者的基因以匹配其發色，而其中使用的神經整合技術則使該植入物可以像真正的尾巴那樣活動以回應安裝者的思想。</EccentricTailLabrador.description>
+
+
+  <!-- shepherd tail -->
+
+  <EccentricTailShepherd.label>牧羊犬尾</EccentricTailShepherd.label>
+  <EccentricTailShepherd.description>一個高度先進的美容用狗尾。這款植入物在安裝後會連接安裝者的基因以匹配其發色，而其中使用的神經整合技術則使該植入物可以像真正的尾巴那樣活動以回應安裝者的思想。</EccentricTailShepherd.description>
+
+
+  <!-- terrier tail -->
+
+  <EccentricTailTerrier.label>更犬尾</EccentricTailTerrier.label>
+  <EccentricTailTerrier.description>一個高度先進的美容用狗尾。這款植入物在安裝後會連接安裝者的基因以匹配其發色，而其中使用的神經整合技術則使該植入物可以像真正的尾巴那樣活動以回應安裝者的思想。</EccentricTailTerrier.description>
+
+
+  <!-- 鼠尾 -->
+
+  <EccentricTailMouse.label>鼠尾</EccentricTailMouse.label>
+  <EccentricTailMouse.description>一個高度先進的美容用鼠尾。這款植入物在安裝後會連接安裝者的基因以匹配其發色，而其中使用的神經整合技術則使該植入物可以像真正的尾巴那樣活動以回應安裝者的思想。</EccentricTailMouse.description>
+
+
+  <!-- 兔尾 -->
+
+  <EccentricTailRabbit.label>兔尾</EccentricTailRabbit.label>
+  <EccentricTailRabbit.description>一個高度先進的美容用兔尾。這款植入物在安裝後會連接安裝者的基因以匹配其發色，而其中使用的神經整合技術則使該植入物可以像真正的尾巴那樣活動以回應安裝者的思想。</EccentricTailRabbit.description>
+
+
+  <!-- 馬尾 -->
+
+  <EccentricTailHorse.label>馬尾</EccentricTailHorse.label>
+  <EccentricTailHorse.description>一個高度先進的美容用馬尾。這款植入物在安裝後會連接安裝者的基因以匹配其發色，而其中使用的神經整合技術則使該植入物可以像真正的尾巴那樣活動以回應安裝者的思想。</EccentricTailHorse.description>
+
+
+  <!-- 牛尾 -->
+
+  <EccentricTailBull.label>牛尾</EccentricTailBull.label>
+  <EccentricTailBull.description>一個高度先進的美容用牛尾。這款植入物在安裝後會連接安裝者的基因以匹配其發色，而其中使用的神經整合技術則使該植入物可以像真正的尾巴那樣活動以回應安裝者的思想。</EccentricTailBull.description>
+
+
+</LanguageData>

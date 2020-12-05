@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 敲擊獸角 -->
+
+  <EccentricInstallHornThrumbo.label>植入敲擊獸角</EccentricInstallHornThrumbo.label>
+  <EccentricInstallHornThrumbo.description>植入一隻美容用的敲擊獸角。</EccentricInstallHornThrumbo.description>
+  <EccentricInstallHornThrumbo.jobString>植入敲擊獸角中。</EccentricInstallHornThrumbo.jobString>
+
+
+  <!-- 獨角獸角 -->
+
+  <EccentricInstallHornUnicorn.label>植入獨角獸角</EccentricInstallHornUnicorn.label>
+  <EccentricInstallHornUnicorn.description>植入一隻美容用的獨角獸角。</EccentricInstallHornUnicorn.description>
+  <EccentricInstallHornUnicorn.jobString>植入獨角獸角中。</EccentricInstallHornUnicorn.jobString>
+
+
+  <!-- 公牛角 -->
+
+  <EccentricInstallHornBullLeft.label>植入公牛角</EccentricInstallHornBullLeft.label>
+  <EccentricInstallHornBullLeft.description>植入一隻美容用的公牛角。</EccentricInstallHornBullLeft.description>
+  <EccentricInstallHornBullLeft.jobString>植入公牛角中。</EccentricInstallHornBullLeft.jobString>
+
+  <EccentricInstallHornBullRight.label>植入公牛角</EccentricInstallHornBullRight.label>
+  <EccentricInstallHornBullRight.description>植入一隻美容用的公牛角。</EccentricInstallHornBullRight.description>
+  <EccentricInstallHornBullRight.jobString>植入公牛角中。</EccentricInstallHornBullRight.jobString>
+
+
+  <!-- 公羊角 -->
+
+  <EccentricInstallHornRamLeft.label>植入公羊角</EccentricInstallHornRamLeft.label>
+  <EccentricInstallHornRamLeft.description>植入一隻美容用的公羊角。</EccentricInstallHornRamLeft.description>
+  <EccentricInstallHornRamLeft.jobString>植入公羊角中。</EccentricInstallHornRamLeft.jobString>
+
+  <EccentricInstallHornRamRight.label>植入公羊角</EccentricInstallHornRamRight.label>
+  <EccentricInstallHornRamRight.description>植入一隻美容用的公羊角。</EccentricInstallHornRamRight.description>
+  <EccentricInstallHornRamRight.jobString>植入公羊角中。</EccentricInstallHornRamRight.jobString>
+
+
+  <!-- 鬼角 -->
+
+  <EccentricInstallHornOniLeft.label>植入鬼角</EccentricInstallHornOniLeft.label>
+  <EccentricInstallHornOniLeft.description>植入一隻美容用的鬼角。</EccentricInstallHornOniLeft.description>
+  <EccentricInstallHornOniLeft.jobString>植入鬼角中。</EccentricInstallHornOniLeft.jobString>
+
+  <EccentricInstallHornOniRight.label>植入鬼角</EccentricInstallHornOniRight.label>
+  <EccentricInstallHornOniRight.description>植入一隻美容用的鬼角。</EccentricInstallHornOniRight.description>
+  <EccentricInstallHornOniRight.jobString>植入鬼角中。</EccentricInstallHornOniRight.jobString>
+
+
+</LanguageData>

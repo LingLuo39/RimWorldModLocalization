@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 貓尾 -->
+
+  <EccentricInstallTailCat.label>植入貓尾</EccentricInstallTailCat.label>
+  <EccentricInstallTailCat.description>植入一隻美容用的貓尾。</EccentricInstallTailCat.description>
+  <EccentricInstallTailCat.jobString>植入貓尾中。</EccentricInstallTailCat.jobString>
+
+
+  <!-- 緬因貓尾 -->
+
+  <EccentricInstallTailMaineCoon.label>植入緬因貓尾</EccentricInstallTailMaineCoon.label>
+  <EccentricInstallTailMaineCoon.description>植入一隻美容用的緬因貓尾。</EccentricInstallTailMaineCoon.description>
+  <EccentricInstallTailMaineCoon.jobString>植入緬因貓尾中。</EccentricInstallTailMaineCoon.jobString>
+
+
+  <!-- 暹羅貓尾 -->
+
+  <EccentricInstallTailSiamese.label>植入暹羅貓尾</EccentricInstallTailSiamese.label>
+  <EccentricInstallTailSiamese.description>植入一隻美容用的暹羅貓尾。</EccentricInstallTailSiamese.description>
+  <EccentricInstallTailSiamese.jobString>植入暹羅貓尾中。</EccentricInstallTailSiamese.jobString>
+
+
+  <!-- 狐尾 -->
+
+  <EccentricInstallTailFox.label>植入狐尾</EccentricInstallTailFox.label>
+  <EccentricInstallTailFox.description>植入一隻美容用的狐尾。</EccentricInstallTailFox.description>
+  <EccentricInstallTailFox.jobString>植入狐尾中。</EccentricInstallTailFox.jobString>
+
+
+  <!-- 拉布拉多尾 -->
+
+  <EccentricInstallTailLabrador.label>植入拉布拉多尾</EccentricInstallTailLabrador.label>
+  <EccentricInstallTailLabrador.description>植入一隻美容用的拉布拉多尾。</EccentricInstallTailLabrador.description>
+  <EccentricInstallTailLabrador.jobString>植入拉布拉多尾中。</EccentricInstallTailLabrador.jobString>
+
+
+  <!-- 牧羊犬尾 -->
+
+  <EccentricInstallTailShepherd.label>植入牧羊犬尾</EccentricInstallTailShepherd.label>
+  <EccentricInstallTailShepherd.description>植入一隻美容用的牧羊犬尾。</EccentricInstallTailShepherd.description>
+  <EccentricInstallTailShepherd.jobString>植入牧羊犬尾中。</EccentricInstallTailShepherd.jobString>
+
+
+  <!-- 更犬尾 -->
+
+  <EccentricInstallTailTerrier.label>植入更犬尾</EccentricInstallTailTerrier.label>
+  <EccentricInstallTailTerrier.description>植入一隻美容用的更犬尾。</EccentricInstallTailTerrier.description>
+  <EccentricInstallTailTerrier.jobString>植入更犬尾中。</EccentricInstallTailTerrier.jobString>
+
+
+  <!-- 鼠尾 -->
+
+  <EccentricInstallTailMouse.label>植入鼠尾</EccentricInstallTailMouse.label>
+  <EccentricInstallTailMouse.description>植入一隻美容用的鼠尾。</EccentricInstallTailMouse.description>
+  <EccentricInstallTailMouse.jobString>植入鼠尾中。</EccentricInstallTailMouse.jobString>
+
+
+  <!-- 兔尾 -->
+
+  <EccentricInstallTailRabbit.label>植入兔尾</EccentricInstallTailRabbit.label>
+  <EccentricInstallTailRabbit.description>植入一隻美容用的兔尾。</EccentricInstallTailRabbit.description>
+  <EccentricInstallTailRabbit.jobString>植入兔尾中。</EccentricInstallTailRabbit.jobString>
+
+
+  <!-- 馬尾 -->
+
+  <EccentricInstallTailHorse.label>植入馬尾</EccentricInstallTailHorse.label>
+  <EccentricInstallTailHorse.description>植入一隻美容用的馬尾。</EccentricInstallTailHorse.description>
+  <EccentricInstallTailHorse.jobString>植入馬尾中。</EccentricInstallTailHorse.jobString>
+
+
+  <!-- 牛尾 -->
+
+  <EccentricInstallTailBull.label>植入牛尾</EccentricInstallTailBull.label>
+  <EccentricInstallTailBull.description>植入一隻美容用的牛尾。</EccentricInstallTailBull.description>
+  <EccentricInstallTailBull.jobString>植入牛尾中。</EccentricInstallTailBull.jobString>
+
+
+</LanguageData>

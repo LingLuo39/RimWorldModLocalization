@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 猫耳 -->
+
+  <EccentricEarCat.label>猫耳</EccentricEarCat.label>
+  <EccentricEarCat.description>一个高度先进的美容用猫耳。这款植入物在安装后会连接安装者的基因以匹配其发色，而其中使用的神经整合技术则使该植入物可以像真正的耳朵那样活动以回应安装者的思想。</EccentricEarCat.description>
+
+
+  <!-- 缅因猫耳 -->
+
+  <EccentricEarMaineCoon.label>缅因猫耳</EccentricEarMaineCoon.label>
+  <EccentricEarMaineCoon.description>一个高度先进的美容用猫耳。这款植入物在安装后会连接安装者的基因以匹配其发色，而其中使用的神经整合技术则使该植入物可以像真正的耳朵那样活动以回应安装者的思想。</EccentricEarMaineCoon.description>
+
+
+  <!-- siamese ear -->
+
+  <EccentricEarSiamese.label>暹罗猫耳</EccentricEarSiamese.label>
+  <EccentricEarSiamese.description>一个高度先进的美容用猫耳。这款植入物在安装后会保留暹罗猫独特的黑色，而其中使用的神经整合技术则使该植入物可以像真正的耳朵那样活动以回应安装者的思想。</EccentricEarSiamese.description>
+
+
+  <!-- 狐耳 -->
+
+  <EccentricEarFox.label>狐耳</EccentricEarFox.label>
+  <EccentricEarFox.description>一个高度先进的美容用狐耳。这款植入物在安装后会连接安装者的基因以匹配其发色，而其中使用的神经整合技术则使该植入物可以像真正的耳朵那样活动以回应安装者的思想。</EccentricEarFox.description>
+
+
+  <!-- labrador ear -->
+
+  <EccentricEarLabrador.label>拉布拉多耳</EccentricEarLabrador.label>
+  <EccentricEarLabrador.description>一个高度先进的美容用狗耳。这款植入物在安装后会连接安装者的基因以匹配其发色，而其中使用的神经整合技术则使该植入物可以像真正的耳朵那样活动以回应安装者的思想。</EccentricEarLabrador.description>
+
+
+  <!-- shepherd ear -->
+
+  <EccentricEarShepherd.label>牧羊犬耳</EccentricEarShepherd.label>
+  <EccentricEarShepherd.description>一个高度先进的美容用狗耳。这款植入物在安装后会连接安装者的基因以匹配其发色，而其中使用的神经整合技术则使该植入物可以像真正的耳朵那样活动以回应安装者的思想。</EccentricEarShepherd.description>
+
+
+  <!-- terrier ear -->
+
+  <EccentricEarTerrier.label>更犬耳</EccentricEarTerrier.label>
+  <EccentricEarTerrier.description>一个高度先进的美容用狗耳。这款植入物在安装后会连接安装者的基因以匹配其发色，而其中使用的神经整合技术则使该植入物可以像真正的耳朵那样活动以回应安装者的思想。</EccentricEarTerrier.description>
+
+
+  <!-- 鼠耳 -->
+
+  <EccentricEarMouse.label>鼠耳</EccentricEarMouse.label>
+  <EccentricEarMouse.description>一个高度先进的美容用鼠耳。这款植入物在安装后会连接安装者的基因以匹配其发色，而其中使用的神经整合技术则使该植入物可以像真正的耳朵那样活动以回应安装者的思想。</EccentricEarMouse.description>
+
+
+  <!-- 兔耳 -->
+
+  <EccentricEarRabbit.label>兔耳</EccentricEarRabbit.label>
+  <EccentricEarRabbit.description>一个高度先进的美容用兔耳。这款植入物在安装后会连接安装者的基因以匹配其发色，而其中使用的神经整合技术则使该植入物可以像真正的耳朵那样活动以回应安装者的思想。</EccentricEarRabbit.description>
+
+
+  <!-- 马耳 -->
+
+  <EccentricEarHorse.label>马耳</EccentricEarHorse.label>
+  <EccentricEarHorse.description>一个高度先进的美容用马耳。这款植入物在安装后会连接安装者的基因以匹配其发色，而其中使用的神经整合技术则使该植入物可以像真正的耳朵那样活动以回应安装者的思想。</EccentricEarHorse.description>
+
+
+</LanguageData>
